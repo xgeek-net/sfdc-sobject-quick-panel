@@ -1,5 +1,5 @@
-# sfdc-sobject-quick-panel
-Salesforce Standard Objects and Custom Objects quick panel for devepment.
+# SFDC SObject Quick Panel
+Salesforce Standard Objects and Custom Objects quick panel for sfdc development.
 
 https://www.xgeek.net/salesforce/sfdc-sobject-quick-panel/
 
